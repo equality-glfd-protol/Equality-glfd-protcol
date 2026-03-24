@@ -18,7 +18,14 @@ Funded only by 4% safe interest on global wealth + fully repurposed military-ind
 Full files:  
 - Whitepaper & Legal Nullification  
 - 20-Year Feasibility Simulation (March 2026)  
-- Smart-Contract Pseudocode  
-- Albany GA Pilot Plan  
+- Smart-Contract Pseudocode -
 
 Share the videos. This belongs to humanity.
+### Feasibility – March 2026
+| Year | Total Provision Cost | Funding | Surplus/Gap |
+|------|----------------------|---------|-------------|
+| 0    | $581T                | $26.5T  | -554.5T     |
+| 15   | $43T                 | $26.5T  | +16.5T      |
+| 20   | $20.75T              | $26.5T  | +5.75T      |
+
+25,000 humans die every day under the old system. This ends it.
